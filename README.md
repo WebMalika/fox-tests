@@ -1,9 +1,5 @@
-# test2
-
-## Project setup
-```
-npm install
-```
+# Fox Tests
+Этот проект разработывался как учебный для отработки навыков по vue-cli, по нему предполагается доработка и дополнение. 
 
 ### Compiles and hot-reloads for development
 ```
